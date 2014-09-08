@@ -1,4 +1,4 @@
-hello-world
+hello-people
 ===========
 
 New repository
